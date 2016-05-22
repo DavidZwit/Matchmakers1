@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: ac5be53668e182645b1afc179418da2e
+timeCreated: 1463593950
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ANIM_COGE1_CIRCLE
+    100002: ANIM_COGE1_CIRCLE 1
+    100004: ANIM_COGE1_CIRCLE2
+    100006: ANIM_COGE1_CIRCLE2 1
+    100008: ANIM_COGE1_LEG
+    100010: ANIM_COGE1_LEG01
+    100012: ANIM_COGE1_LEG01 1
+    100014: ANIM_COGE1_LEG02
+    100016: ANIM_COGE1_LEG02 1
+    100018: ANIM_COGE1_LEG03
+    100020: ANIM_COGE1_LEG03 1
+    100022: ANIM_COGE1_LEG04
+    100024: ANIM_COGE1_LEG04 1
+    100026: ANIM_COGE1_LEG05
+    100028: ANIM_COGE1_LEG05 1
+    100030: ANIM_COGE1_LEG1
+    100032: ANIM_COGE2_CIRCLE
+    100034: ANIM_COGE2_CIRCLE 1
+    100036: ANIM_COGE2_CIRCLE2
+    100038: ANIM_COGE2_CIRCLE2 1
+    100040: ANIM_COGE2_LEG
+    100042: ANIM_COGE2_LEG01
+    100044: ANIM_COGE2_LEG01 1
+    100046: ANIM_COGE2_LEG02
+    100048: ANIM_COGE2_LEG02 1
+    100050: ANIM_COGE2_LEG03
+    100052: ANIM_COGE2_LEG03 1
+    100054: ANIM_COGE2_LEG04
+    100056: ANIM_COGE2_LEG04 1
+    100058: ANIM_COGE2_LEG05
+    100060: ANIM_COGE2_LEG05 1
+    100062: ANIM_COGE2_LEG1
+    100064: ANIM_COGE_CIRCLE
+    100066: ANIM_COGE_CIRCLE 1
+    100068: ANIM_COGE_CIRCLE1
+    100070: ANIM_COGE_CIRCLE1 1
+    100072: ANIM_COGE_LEG
+    100074: ANIM_COGE_LEG01
+    100076: ANIM_COGE_LEG01 1
+    100078: ANIM_COGE_LEG02
+    100080: ANIM_COGE_LEG02 1
+    100082: ANIM_COGE_LEG03
+    100084: ANIM_COGE_LEG03 1
+    100086: ANIM_COGE_LEG04
+    100088: ANIM_COGE_LEG04 1
+    100090: ANIM_COGE_LEG05
+    100092: ANIM_COGE_LEG05 1
+    100094: ANIM_COGE_LEG1
+    100096: group4
+    100098: //RootNode
+    100100: transform1
+    100102: transform1 1
+    100104: transform2
+    100106: transform2 1
+    100108: transform3
+    100110: transform3 1
+    400000: ANIM_COGE1_CIRCLE
+    400002: ANIM_COGE1_CIRCLE 1
+    400004: ANIM_COGE1_CIRCLE2
+    400006: ANIM_COGE1_CIRCLE2 1
+    400008: ANIM_COGE1_LEG
+    400010: ANIM_COGE1_LEG01
+    400012: ANIM_COGE1_LEG01 1
+    400014: ANIM_COGE1_LEG02
+    400016: ANIM_COGE1_LEG02 1
+    400018: ANIM_COGE1_LEG03
+    400020: ANIM_COGE1_LEG03 1
+    400022: ANIM_COGE1_LEG04
+    400024: ANIM_COGE1_LEG04 1
+    400026: ANIM_COGE1_LEG05
+    400028: ANIM_COGE1_LEG05 1
+    400030: ANIM_COGE1_LEG1
+    400032: ANIM_COGE2_CIRCLE
+    400034: ANIM_COGE2_CIRCLE 1
+    400036: ANIM_COGE2_CIRCLE2
+    400038: ANIM_COGE2_CIRCLE2 1
+    400040: ANIM_COGE2_LEG
+    400042: ANIM_COGE2_LEG01
+    400044: ANIM_COGE2_LEG01 1
+    400046: ANIM_COGE2_LEG02
+    400048: ANIM_COGE2_LEG02 1
+    400050: ANIM_COGE2_LEG03
+    400052: ANIM_COGE2_LEG03 1
+    400054: ANIM_COGE2_LEG04
+    400056: ANIM_COGE2_LEG04 1
+    400058: ANIM_COGE2_LEG05
+    400060: ANIM_COGE2_LEG05 1
+    400062: ANIM_COGE2_LEG1
+    400064: ANIM_COGE_CIRCLE
+    400066: ANIM_COGE_CIRCLE 1
+    400068: ANIM_COGE_CIRCLE1
+    400070: ANIM_COGE_CIRCLE1 1
+    400072: ANIM_COGE_LEG
+    400074: ANIM_COGE_LEG01
+    400076: ANIM_COGE_LEG01 1
+    400078: ANIM_COGE_LEG02
+    400080: ANIM_COGE_LEG02 1
+    400082: ANIM_COGE_LEG03
+    400084: ANIM_COGE_LEG03 1
+    400086: ANIM_COGE_LEG04
+    400088: ANIM_COGE_LEG04 1
+    400090: ANIM_COGE_LEG05
+    400092: ANIM_COGE_LEG05 1
+    400094: ANIM_COGE_LEG1
+    400096: group4
+    400098: //RootNode
+    400100: transform1
+    400102: transform1 1
+    400104: transform2
+    400106: transform2 1
+    400108: transform3
+    400110: transform3 1
+    4300000: ANIM_COGE_LEG
+    4300002: ANIM_COGE1_LEG
+    4300004: ANIM_COGE2_LEG
+    4300006: ANIM_COGE2_LEG1
+    4300008: ANIM_COGE1_LEG1
+    4300010: ANIM_COGE_LEG1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: ANIM_COGE1_LEG
+    13700002: ANIM_COGE1_LEG1
+    13700004: ANIM_COGE2_LEG
+    13700006: ANIM_COGE2_LEG1
+    13700008: ANIM_COGE_LEG
+    13700010: ANIM_COGE_LEG1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
